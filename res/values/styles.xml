@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="SubMenuDescriptionTx">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">#ff898888</item>
+    </style>
+    <style name="SearchResultTelNoTx_1">
+        <item name="android:textSize">25.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffe6b800</item>
+    </style>
+    <style name="SearchIngMsgTx_1">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="SearchResultMsgTx_1">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="ResultComponyNmTx_1">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff898888</item>
+    </style>
+    <style name="ResultComponyOrgunitTx_1">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff5b88f1</item>
+    </style>
+    <style name="ResultComponyNameTx_1">
+        <item name="android:textSize">28.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    
+    <style name="ResultComponyJobtitleTx_1">
+        <item name="android:textSize">24.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>
